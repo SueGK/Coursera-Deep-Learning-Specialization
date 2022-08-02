@@ -18,6 +18,14 @@ AI is transforming many industries. The Deep Learning Specialization provides a 
 ## Course In progress
 [Course 4: Convolutional Neural Networks](https://github.com/SueGK/Coursera-Deep-Learning-Specialization/tree/main/Course4-Convolutional%20Neural%20Networks)
 
+### Application
+**Week1** 
+[W1-Convolution_model_Application](https://github.com/SueGK/Coursera-Deep-Learning-Specialization/blob/main/Course4-Convolutional%20Neural%20Networks/W1-Convolution_model_Application.ipynb)
+
+* Create a mood classifer using the TF Keras Sequential API that determines whether the people in the images are smiling or not
+* Build a ConvNet to identify sign language digits using the TF Keras Functional API
+
+
 ## MyCourseCheetsheet
 ![Simple-Convolutional-Network-Dimensions](https://testksj.oss-cn-beijing.aliyuncs.com/uPic/Simple-Convolutional-Network-Dimensions.png)
 ![v33A4e](https://testksj.oss-cn-beijing.aliyuncs.com/uPic/v33A4e.png)
